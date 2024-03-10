@@ -1,19 +1,0 @@
-
- 
-java:S1598"‚This file "Calculadora.java" should be located in "Calculadora" directory, not in "C:\Users\Usuario\IdeaProjects\Calculadora\src".(–ìŞ²8„ØÇâ1
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ìŞ²8‡ØÇâ1
-F	java:S106"+Replace this use of System.out by a logger.(±º^8™ØÇâ1
-L	java:S106"+Replace this use of System.out by a logger.(ë±¤üÿÿÿÿ8šØÇâ1
-F	java:S106"+Replace this use of System.out by a logger.(«şšR8šØÇâ1
-L	java:S106"+Replace this use of System.out by a logger.(—×éŞùÿÿÿÿ8šØÇâ1
-F	java:S106"+Replace this use of System.out by a logger.(¨ô¡8œØÇâ1
-G	java:S106"+Replace this use of System.out by a logger.(Ê¨Ö”8œØÇâ1
-G	java:S106"+Replace this use of System.out by a logger.(ËáÌ8œØÇâ1
-L	java:S106""+Replace this use of System.out by a logger.(¤‚˜øÿÿÿÿ8ØÇâ1
-G	java:S106$"+Replace this use of System.out by a logger.(‹éÜ°8ØÇâ1
-L	java:S106)"+Replace this use of System.out by a logger.(­ŒÊøÿÿÿÿ8ŸØÇâ1
-L	java:S106,"+Replace this use of System.out by a logger.(ú¿éËÿÿÿÿÿ8 ØÇâ1
-L	java:S106/"+Replace this use of System.out by a logger.(£œóºüÿÿÿÿ8 ØÇâ1
-F	java:S1062"+Replace this use of System.out by a logger.(†€ï98¡ØÇâ1
-G	java:S1067"+Replace this use of System.out by a logger.(Ë¿†8¢ØÇâ1
-L	java:S106:"+Replace this use of System.out by a logger.(¬õÇßüÿÿÿÿ8¢ØÇâ1

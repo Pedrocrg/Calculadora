@@ -13,6 +13,8 @@ import java.util.Scanner;
 public class Calculadora {
     static final Scanner sc=new Scanner (System.in);
     static final DecimalFormat df = new DecimalFormat("#.000");
+    private static final String RESULTADO="El resultado es: ";
+    private static final String MARGEN="*****************************";
     public static void main(String[] args) {
         menu();
     }
@@ -39,21 +41,31 @@ public class Calculadora {
             }
             switch (opcion){
                 case 1:
-                    System.out.println("El resultado es: "+df.format(Sumar.suma(num1,num2)));
+                    System.out.println(MARGEN);
+                    System.out.println(RESULTADO+df.format(Sumar.suma(num1,num2)));
+                    System.out.println(MARGEN);
                     break;
                 case 2:
-                    System.out.println(df.format(Restar.resta(num1,num2)));
+                    System.out.println(MARGEN);
+                    System.out.println(RESULTADO+df.format(Restar.resta(num1,num2)));
+                    System.out.println(MARGEN);
                     break;
                 case 3:
-                    System.out.println(df.format(Multiplicar.multiplicacion(num1,num2)));
+                    System.out.println(MARGEN);
+                    System.out.println(RESULTADO+df.format(Multiplicar.multiplicacion(num1,num2)));
+                    System.out.println(MARGEN);
                     break;
                 case 4:
-                    System.out.println(df.format(Dividir.division(num1,num2)));
+                    System.out.println(MARGEN);
+                    System.out.println(RESULTADO+df.format(Dividir.division(num1,num2)));
+                    System.out.println(MARGEN);
                     break;
                 case 0:
                     break;
                 default:
+                    System.out.println(MARGEN);
                     System.out.println("Operación no disponible.");
+                    System.out.println(MARGEN);
             }
         }while(opcion!=0);
         System.out.println("Saliendo del programa...");
