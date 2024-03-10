@@ -1,0 +1,36 @@
+Index: src/multiplicar.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/multiplicar.java b/src/multiplicar.java
+new file mode 100644
+--- /dev/null	(date 1710078835990)
++++ b/src/multiplicar.java	(date 1710078835990)
+@@ -0,0 +1,2 @@
++public class multiplicar {
++}
+Index: src/dividir.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/dividir.java b/src/dividir.java
+new file mode 100644
+--- /dev/null	(date 1710078835964)
++++ b/src/dividir.java	(date 1710078835964)
+@@ -0,0 +1,2 @@
++public class dividir {
++}
+Index: src/restar.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/restar.java b/src/restar.java
+new file mode 100644
+--- /dev/null	(date 1710078835978)
++++ b/src/restar.java	(date 1710078835978)
+@@ -0,0 +1,2 @@
++public class restar {
++}
