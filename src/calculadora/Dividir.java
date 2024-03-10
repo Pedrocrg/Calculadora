@@ -1,23 +1,20 @@
+package calculadora;
+
 /**
  * Operacion de division.
  * Programa que se encarga de realizar operaciones de division.
  * @author Pedro Cruz
  * @version 0.1
  */
-public class dividir {
-
-    private double num1;
-    private double num2;
+public class Dividir {
 
     /**
      * Constructor de la clase dividir.
-     * Este metodo se encarga de dar valores al objeto que realizara la operacion.
-     * @param num1 Es el dividendo de la operacion.
-     * @param num2 Es el divisor de la operacion.
+     * Metodo para informar de la funcion de la clase.
+     * @throws IllegalStateException Mensaje que informa de para que sirve la clase.
      */
-    public dividir(double num1, double num2){
-        this.num1=num1;
-        this.num2=num2;
+    private Dividir() {
+        throw new IllegalStateException("Clase de utilidad");
     }
 
     /**

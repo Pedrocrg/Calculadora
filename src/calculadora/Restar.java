@@ -1,23 +1,20 @@
+package calculadora;
+
 /**
  * Operacion de resta.
  * Programa que se encarga de realizar operaciones de resta.
  * @author Pedro Cruz
  * @version 0.1
  */
-public class restar {
-
-    private double num1;
-    private double num2;
+public class Restar {
 
     /**
      * Constructor de la clase restar.
-     * Este metodo se encarga de dar valores al objeto que realizara la operacion.
-     * @param num1 Es el primer numero de la operacion.
-     * @param num2 Es el segundo numero de la operacion.
+     * Metodo para informar de la funcion de la clase.
+     * @throws IllegalStateException Mensaje que informa de para que sirve la clase.
      */
-    public restar(double num1, double num2){
-        this.num1=num1;
-        this.num2=num2;
+    private Restar() {
+        throw new IllegalStateException("Clase de utilidad");
     }
 
     /**
@@ -28,7 +25,6 @@ public class restar {
      * @return Devuelve el resultado de una resta.
      */
     public static double resta(double num1, double num2){
-        double result=num1-num2;
-        return result;
+        return num1-num2;
     }
 }

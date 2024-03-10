@@ -1,0 +1,9 @@
+
+š
+java:S1488!"^Immediately return this expression instead of assigning it to the temporary variable "result".(¾¯¾¿J$52d1214d-23de-43ea-9778-6c5cc99fe895
+	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô¸Ÿ•üÿÿÿÿJ$57df1f18-80fa-4a28-bfc7-aaf41ccd2878
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ìŞ²8Î®™Çâ1
+i
+java:S1068"(Remove this unused "num1" private field.(·†Ù‘ıÿÿÿÿJ$394d0dd6-7f65-4b49-8858-0672c47427bc
+i
+java:S1068"(Remove this unused "num2" private field.(³€æ”úÿÿÿÿJ$ef4975b5-bb3d-4513-b5ef-f1ccf6e5e9e6

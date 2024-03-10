@@ -1,23 +1,20 @@
+package calculadora;
+
 /**
  * Operacion de suma.
  * Programa que se encarga de realizar operaciones de suma.
  * @author Pedro Cruz
  * @version 0.1
  */
-public class sumar {
-
-    private double num1;
-    private double num2;
+public class Sumar {
 
     /**
      * Constructor de la clase sumar.
-     * Este metodo se encarga de dar valores al objeto que realizara la operacion.
-     * @param num1 Es el primer numero de la operacion.
-     * @param num2 Es el segundo numero de la operacion.
+     * Metodo para informar de la funcion de la clase.
+     * @throws IllegalStateException Mensaje que informa de para que sirve la clase.
      */
-    public sumar(double num1, double num2){
-        this.num1=num1;
-        this.num2=num2;
+    private Sumar() {
+        throw new IllegalStateException("Clase de utilidad");
     }
 
     /**
@@ -28,7 +25,6 @@ public class sumar {
      * @return Devuelve el resultado de una suma.
      */
     public static double suma(double num1, double num2){
-        double result=num1+num2;
-        return result;
+        return num1+num2;
     }
 }

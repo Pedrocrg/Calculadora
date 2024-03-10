@@ -4,8 +4,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f06da2a-26a1-4af8-bc78-689881db8908" name="Changes" comment="Batería de 3 pruebas del metodo multiplicacion que verifican funcionamiento comlpetada.">
-      <change afterPath="$PROJECT_DIR$/test/dividirTest.java" afterDir="false" />
+    <list default="true" id="5f06da2a-26a1-4af8-bc78-689881db8908" name="Changes" comment="Modificaciones tras los consejos de Sonar Lint.">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/2368eb91e84e417b00ecb91a7f3395c9956f975c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43fac43e788c1d0e0f08bf93bfaed730d797a6db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/4601258bcf982fe808f4967e7136df6f37d10c63" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4afe537584169a59f7c3757bb5301d5e9593c310" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f1cba712bf11feff3a0d6f8c239c35fc3be20aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/98cca455aef93219659de9ce1913aa5d8cec417b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a87d342bf7fd82f5c6597464dd2960b9f9d54b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b081ddc271690b235d9e6610d2eb11441398aa30" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd0ae087e0fe112cb44aa26aeeec55ae565f9fa2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce5136d5526b5ad4d017cb08e11a20498724ac85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d2e0b1ee79f27ed8c58232f7855a23ba0fcc37fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da4c5abc9b78a19bc09b072e78a7b7a0c224fc0e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/d/dd8b2176f6a0d08af33627ba8fddb8ad5b44a2bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de825ca07e6f853307b1a3f7b6d6050411ea8558" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea59f464dbd628f87bc1fac1ed3f807c4663eb70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/3/2368eb91e84e417b00ecb91a7f3395c9956f975c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/3/43fac43e788c1d0e0f08bf93bfaed730d797a6db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/6/4601258bcf982fe808f4967e7136df6f37d10c63" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/a/4afe537584169a59f7c3757bb5301d5e9593c310" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/f/6f1cba712bf11feff3a0d6f8c239c35fc3be20aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/8/98cca455aef93219659de9ce1913aa5d8cec417b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9a87d342bf7fd82f5c6597464dd2960b9f9d54b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/0/b081ddc271690b235d9e6610d2eb11441398aa30" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/d/bd0ae087e0fe112cb44aa26aeeec55ae565f9fa2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/e/ce5136d5526b5ad4d017cb08e11a20498724ac85" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/2/d2e0b1ee79f27ed8c58232f7855a23ba0fcc37fa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/a/da4c5abc9b78a19bc09b072e78a7b7a0c224fc0e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/d/dd8b2176f6a0d08af33627ba8fddb8ad5b44a2bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/e/de825ca07e6f853307b1a3f7b6d6050411ea8558" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/a/ea59f464dbd628f87bc1fac1ed3f807c4663eb70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadora/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dividir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadora/Dividir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/multiplicar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadora/Multiplicar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/restar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadora/Restar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadora/Sumar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/dividirTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/dividirTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/multiplicarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/multiplicarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/restarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/restarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/sumarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/sumarTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +66,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="prueba-division" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +85,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/calculadora/Calculadora.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -59,14 +105,21 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "prueba-division",
-    "onboarding.tips.debug.path": "C:/Users/Usuario/IdeaProjects/Calculadora/src/Main.java"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Usuario/IdeaProjects/Calculadora/src",
+    "onboarding.tips.debug.path": "C:/Users/Usuario/IdeaProjects/Calculadora/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Usuario\IdeaProjects\Calculadora\src" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -147,7 +200,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710080020296</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Batería de 3 pruebas del metodo división que verifican funcionamiento comlpetada.">
+      <option name="closed" value="true" />
+      <created>1710080861766</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710080861766</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Documentación de javadoc completada.">
+      <option name="closed" value="true" />
+      <created>1710082187671</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710082187671</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +251,10 @@
     <MESSAGE value="Creamos la carpeta test." />
     <MESSAGE value="Batería de 3 pruebas que verifacan funcionamiento comlpetada." />
     <MESSAGE value="Batería de 3 pruebas del metodo resta que verifican funcionamiento comlpetada." />
-    <option name="LAST_COMMIT_MESSAGE" value="Batería de 3 pruebas del metodo resta que verifican funcionamiento comlpetada." />
+    <MESSAGE value="Batería de 3 pruebas del metodo división que verifican funcionamiento comlpetada." />
+    <MESSAGE value="Documentación de javadoc completada." />
+    <MESSAGE value="Modificaciones tras los consejos de Sonar Lint." />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificaciones tras los consejos de Sonar Lint." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -191,6 +263,11 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/calculadora/Calculadora.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

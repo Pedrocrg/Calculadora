@@ -1,3 +1,5 @@
+package calculadora;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
@@ -9,8 +11,8 @@ import java.util.Scanner;
  * @version 0.1
  */
 public class Calculadora {
-    public static Scanner sc=new Scanner (System.in);
-    public static DecimalFormat df = new DecimalFormat("#.000");
+    static final Scanner sc=new Scanner (System.in);
+    static final DecimalFormat df = new DecimalFormat("#.000");
     public static void main(String[] args) {
         menu();
     }
@@ -37,16 +39,16 @@ public class Calculadora {
             }
             switch (opcion){
                 case 1:
-                    System.out.println(df.format(sumar.suma(num1,num2)));
+                    System.out.println("El resultado es: "+df.format(Sumar.suma(num1,num2)));
                     break;
                 case 2:
-                    System.out.println(df.format(restar.resta(num1,num2)));
+                    System.out.println(df.format(Restar.resta(num1,num2)));
                     break;
                 case 3:
-                    System.out.println(df.format(multiplicar.multiplicacion(num1,num2)));
+                    System.out.println(df.format(Multiplicar.multiplicacion(num1,num2)));
                     break;
                 case 4:
-                    System.out.println(df.format(dividir.division(num1,num2)));
+                    System.out.println(df.format(Dividir.division(num1,num2)));
                     break;
                 case 0:
                     break;
