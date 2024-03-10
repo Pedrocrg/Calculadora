@@ -1,0 +1,31 @@
+Index: src/sumar.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class sumar {\r\n\r\n    private double num1;\r\n    private double num2;\r\n\r\n    public sumar(double num1, double num2){\r\n        this.num1=num1;\r\n        this.num2=num2;\r\n    }\r\n\r\n    public static double suma(double num1, double num2){\r\n        double result=num1+num2;\r\n        return result;\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/sumar.java b/src/sumar.java
+--- a/src/sumar.java	
++++ b/src/sumar.java	
+@@ -2,14 +2,18 @@
+ 
+     private double num1;
+     private double num2;
++    private double[]num={num1,num2};
+ 
+     public sumar(double num1, double num2){
+         this.num1=num1;
+         this.num2=num2;
+     }
+ 
+-    public static double suma(double num1, double num2){
+-        double result=num1+num2;
++    public static double suma(double[] num){
++        double result=0;
++        for (int i=0;i<num.length;i++){
++            result+=num[i];
++        }
+         return result;
+     }
+ }

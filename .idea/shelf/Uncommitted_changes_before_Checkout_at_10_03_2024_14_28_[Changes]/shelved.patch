@@ -1,0 +1,21 @@
+Index: test/sumarTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import org.junit.jupiter.api.Test;\r\n\r\nimport static org.junit.jupiter.api.Assertions.*;\r\n\r\nclass sumarTest {\r\n\r\n    @org.junit.jupiter.api.BeforeEach\r\n    void setUp() {\r\n    }\r\n\r\n    @org.junit.jupiter.api.AfterEach\r\n    void tearDown() {\r\n    }\r\n\r\n    @org.junit.jupiter.api.Test\r\n    void suma() {\r\n        double[] valores = {5,5,5};\r\n        double expResult = 5.0;\r\n        double result = sumar.suma(valores);\r\n        assertEquals(expResult, result);\r\n\r\n        valores[0]=7;\r\n        valores[1]=9;\r\n        valores[2]=8;\r\n        expResult = 8.0;\r\n        result = Main.calcularMedia(valores);\r\n        assertEquals(expResult, result);\r\n\r\n        valores = {5,5,5};\r\n        expResult = 5.0;\r\n        result = Main.calcularMedia(valores);\r\n        assertEquals(expResult, result);\r\n    }\r\n}
+===================================================================
+diff --git a/test/sumarTest.java b/test/sumarTest.java
+--- a/test/sumarTest.java	
++++ b/test/sumarTest.java	
+@@ -14,9 +14,10 @@
+ 
+     @org.junit.jupiter.api.Test
+     void suma() {
+-        double[] valores = {5,5,5};
++        double valor1=2;
++        double valor2=4;
+         double expResult = 5.0;
+-        double result = sumar.suma(valores);
++        double result = sumar.suma(valor1,valor2);
+         assertEquals(expResult, result);
+ 
+         valores[0]=7;
