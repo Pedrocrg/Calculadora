@@ -1,13 +1,20 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
 import java.text.DecimalFormat;
 import java.util.Scanner;
+
+/**
+ * Calculadora de operaciones simples.
+ * Programa que se encarga de realizar operaciones como una calculadora, incluyendo entre si
+ * la multiplicacion, division, resta y suma.
+ * @author Pedro Cruz
+ * @version 0.1
+ */
 public class Calculadora {
     public static Scanner sc=new Scanner (System.in);
     public static DecimalFormat df = new DecimalFormat("#.000");
     public static void main(String[] args) {
         menu();
     }
+
     public static void menu() {
         //Menu para la calculadora
         int opcion;
