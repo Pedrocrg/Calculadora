@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f06da2a-26a1-4af8-bc78-689881db8908" name="Changes" comment="Batería de 3 pruebas del metodo resta que verifican funcionamiento comlpetada.">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_03_2024_14_59__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_03_2024_15_00__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/multiplicarTest.java" afterDir="false" />
+    <list default="true" id="5f06da2a-26a1-4af8-bc78-689881db8908" name="Changes" comment="Batería de 3 pruebas del metodo multiplicacion que verifican funcionamiento comlpetada.">
+      <change afterPath="$PROJECT_DIR$/test/dividirTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "prueba-multiplicacion",
+    "git-widget-placeholder": "prueba-division",
     "onboarding.tips.debug.path": "C:/Users/Usuario/IdeaProjects/Calculadora/src/Main.java"
   }
 }]]></component>
