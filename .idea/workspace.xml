@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f06da2a-26a1-4af8-bc78-689881db8908" name="Changes" comment="Creamos la carpeta test.">
-      <change beforePath="$PROJECT_DIR$/test/sumarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/sumarTest.java" afterDir="false" />
+    <list default="true" id="5f06da2a-26a1-4af8-bc78-689881db8908" name="Changes" comment="Batería de 3 pruebas del metodo resta que verifican funcionamiento comlpetada.">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_03_2024_14_59__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_10_03_2024_15_00__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/multiplicarTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,21 +53,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;prueba-suma&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Usuario/IdeaProjects/Calculadora/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "prueba-multiplicacion",
+    "onboarding.tips.debug.path": "C:/Users/Usuario/IdeaProjects/Calculadora/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -131,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710075950963</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Batería de 3 pruebas que verifacan funcionamiento comlpetada.">
+      <option name="closed" value="true" />
+      <created>1710079756779</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710079756779</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Batería de 3 pruebas del metodo resta que verifican funcionamiento comlpetada.">
+      <option name="closed" value="true" />
+      <created>1710080020296</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710080020296</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,7 +182,9 @@
     <MESSAGE value="Clase para la multiplicacion con sus métodos correspondientes." />
     <MESSAGE value="Clase para la división con sus métodos correspondientes." />
     <MESSAGE value="Creamos la carpeta test." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creamos la carpeta test." />
+    <MESSAGE value="Batería de 3 pruebas que verifacan funcionamiento comlpetada." />
+    <MESSAGE value="Batería de 3 pruebas del metodo resta que verifican funcionamiento comlpetada." />
+    <option name="LAST_COMMIT_MESSAGE" value="Batería de 3 pruebas del metodo resta que verifican funcionamiento comlpetada." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
